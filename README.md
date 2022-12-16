@@ -7,7 +7,11 @@ python Game.py
 # App Project
 
 git clone
+
 cd Charts
+
 source .\env\Scripts\activate
+
 pip3 install -r requirements.txt
+
 python main.py
